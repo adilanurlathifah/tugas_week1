@@ -1,2 +1,2 @@
-# tugas_week-1
+# tugas_week1
 slicing project figma to flutter 
